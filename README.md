@@ -40,6 +40,10 @@
       Cherry MX 静音红轴 声音
 </audio>
 
+## 常见键盘尺寸一览表
+
+<img src="https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/sxgic/keyboards/keyboard_size.jpg" width="735" height="655" align=center/>
+
 ## 键帽高度一览表
 
 <img src="https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/sxgic/keyboards/3-Profile-list.jpg" width="735" height="655" align=center/>
