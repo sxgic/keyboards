@@ -6,7 +6,7 @@
 
 ### Cherry 各种轴体对比
 
-<img src="https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/sxgic/keyboards/cmp_cherrys.jpg" width="719" align=left/><br>
+<img src="https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/sxgic/keyboards/cmp_cherrys.jpg" width="719" align=center/><br>
 
 ### 茶轴
 
@@ -46,11 +46,11 @@
 
 ## 常见键盘尺寸一览表
 
-<img src="https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/sxgic/keyboards/keyboard_size.jpg" width="719" align=left/><br>
+<img src="https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/sxgic/keyboards/keyboard_size.jpg" width="719" align=center/><br>
 
 ## 键帽高度一览表
 
-<img src="https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/sxgic/keyboards/3-Profile-list.jpg" width="719" align=left/><br>
+<img src="https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/sxgic/keyboards/3-Profile-list.jpg" width="719" align=center/><br>
 
 ## 备份
 
