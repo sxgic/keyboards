@@ -4,6 +4,10 @@
 
 ## Cherry 轴体
 
+### Cherry 各种轴体对比
+
+<img src="https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/sxgic/keyboards/cmp_cherrys.jpg" width="735" height="655" align=center/>
+
 ### 茶轴
 
 <img src="https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/sxgic/keyboards/Cherry-Mx-1-%E8%8C%B6%E8%BD%B4.jpg" width="100" height="100" align=center/>
